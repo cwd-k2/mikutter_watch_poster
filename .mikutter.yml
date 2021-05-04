@@ -1,0 +1,9 @@
+---
+slug: :watch_poster
+depends:
+  mikutter: 4.1.4
+  plugin: []
+version: '0.1.0'
+author: cwd-k2
+name: mikutter_watch_poster
+description: post mikutter by your favourite text editor
