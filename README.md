@@ -8,6 +8,6 @@ $ cd <path/to/mikutter>
 $ bundle update
 ```
 
-`/tmp/mikutter/watch_post/` にテキストファイルを作るとその内容を読み, 投稿します. 追加されたファイルは削除されます.
+mikutter 起動中に `/tmp/mikutter/watch_post/` にテキストファイルを **新規作成** するとその内容を読み, 投稿します. なお, 投稿後にはファイルは削除されます.
 
 ターミナルなどから適当なテキストエディタで mikutter を通じて投稿するために作成されました.
